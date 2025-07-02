@@ -1,1 +1,2 @@
 # Task-3
+This project presents the implementation and evaluation of Simple and Multiple Linear Regression models using a real-world dataset with Python libraries such as Scikit-learn, Pandas, and Matplotlib. The objective is to understand and apply the principles of linear regression for predictive analysis. The process begins with importing and preprocessing the dataset, including handling missing values, encoding categorical variables, and feature scaling where necessary.
